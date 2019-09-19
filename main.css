@@ -3,10 +3,12 @@
 
 
 h1 {
-    margin-bottom: 50.5px;
-    background-color: hsl(120, 100%, 50%);
-    text-align:center;
     
+    margin-bottom: 50.5px;
+    background-color: rgb(83, 107, 83);
+    text-align:center;
+    display: block;
+    color: hsl(0, 97%, 14%) 
 
 
 
@@ -45,6 +47,10 @@ border-color: #a2daa5
     }
     
      
-    div { font-size: 6mm
+    div { font-size: 6mm;
+        display: block;
+        columns: #0418cc;
+
+    
 
     }
